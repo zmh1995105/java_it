@@ -20,5 +20,7 @@ public class Demo01 {
         // can set in config files
         Class<?> c4 = Class.forName("ReflectDemo.Student");
         System.out.println(c1 == c4);
+
+
     }
 }

@@ -1,4 +1,4 @@
-package BaseDemo;
+package BaseDemo2;
 
 import java.util.Random;
 

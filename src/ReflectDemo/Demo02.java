@@ -46,6 +46,12 @@ public class Demo02 {
         Object obj = constructor.newInstance();
         address.set(obj, "xi'an");
         System.out.println(obj);
+
+        Class<?> c2 = Class.forName("ReflectDemo.Student");
+
+        Constructor<?> con3 = c2.getConstructor();
+        Object obj2 = con3.newInstance();
+        System.out.println(obj2);
     }
 
 }
