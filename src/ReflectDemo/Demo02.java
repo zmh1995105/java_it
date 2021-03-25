@@ -52,6 +52,7 @@ public class Demo02 {
         Constructor<?> con3 = c2.getConstructor();
         Object obj2 = con3.newInstance();
         System.out.println(obj2);
+
     }
 
 }

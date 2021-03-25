@@ -48,5 +48,9 @@ public class Student {
                 ", address='" + address + "\'" +
                 "}";
     }
+
+    public void study() {
+        System.out.println("good study");
+    }
 }
 
