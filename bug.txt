@@ -1,0 +1,4 @@
+div Error
+Error name: ArithmeticException
+Error reason: / by zero
+______Total error num is 1

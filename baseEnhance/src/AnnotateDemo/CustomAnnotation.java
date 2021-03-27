@@ -7,7 +7,6 @@ public class CustomAnnotation {
 
     // 反编译 javap myAnno.class
 
-    @MyAnno
     public void show() {
 
     }
