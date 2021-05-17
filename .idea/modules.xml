@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/baseEnhance/baseEnhance.iml" filepath="$PROJECT_DIR$/baseEnhance/baseEnhance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bootstrap_demo/bootstrap_demo.iml" filepath="$PROJECT_DIR$/bootstrap_demo/bootstrap_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dataSource_demo/dataSource_demo.iml" filepath="$PROJECT_DIR$/dataSource_demo/dataSource_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_it2.iml" filepath="$PROJECT_DIR$/java_it2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbc_demo/jdbc_demo.iml" filepath="$PROJECT_DIR$/jdbc_demo/jdbc_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/myOne/myOne.iml" filepath="$PROJECT_DIR$/myOne/myOne.iml" />
       <module fileurl="file://$PROJECT_DIR$/myTwo/myTwo.iml" filepath="$PROJECT_DIR$/myTwo/myTwo.iml" />
     </modules>
